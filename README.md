@@ -10,3 +10,4 @@
 |----|----------------------------------------|------------------------|
 | 1  | Реализация алгоритма поиска с опечатками | [Homework_1](https://github.com/viktoralekseev2018-hub/Homework_1) |
 | 2  | Разработка консольного приложения с применением ООП | [Homework_2](https://github.com/viktoralekseev2018-hub/Homework_2) |
+| 3  | Разработка приложения на языке C# с базой данных и пользовательским интерфейсом | [Homework_3](https://github.com/viktoralekseev2018-hub/HW3) |
